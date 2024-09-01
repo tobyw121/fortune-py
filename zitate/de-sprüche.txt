@@ -1,0 +1,91 @@
+    "Ich habe versucht, Multitasking zu machen, aber ich habe nur vergessen, was ich eigentlich machen wollte."
+%
+    "Das Leben ist zu kurz, um sich Sorgen über Dinge zu machen, die man sowieso nicht ändern kann. Also lehn dich zurück, entspann dich und iss ein Stück Kuchen."
+%
+    "Ich bin nicht faul, ich bin im Energiesparmodus."
+%
+    "Das Leben ist nicht darum, auf den perfekten Moment zu warten, sondern jeden Moment perfekt zu machen."
+%
+   "Die wahre Schönheit liegt nicht im Aussehen, sondern im Herzen."
+%
+   "Das größte Geschenk, das du jemandem machen kannst, ist deine Zeit."
+%
+    "Träume nicht dein Leben, sondern lebe deinen Traum."
+%
+    "Der Unterschied zwischen gewöhnlich und außergewöhnlich ist das kleine Extra."
+%
+    "Scheitern ist nicht das Gegenteil von Erfolg, es ist ein Teil davon."
+%
+    "Die Stille spricht lauter als Worte."
+%
+   "Die Wahrheit liegt irgendwo da draußen."
+%
+    "Manchmal muss man sich verlieren, um sich selbst zu finden."
+%
+    "Ein Lächeln kann einen schlechten Tag in einen guten verwandeln."
+%
+    "Sei nett zu jedem, du weißt nie, was jemand gerade durchmacht."
+%
+    "Das Leben ist zu kurz, um schlechten Wein zu trinken."
+%
+    "Das Leben ist wie eine Schachtel Pralinen - man weiß nie, was man bekommt, aber man isst sie trotzdem alle."
+%
+    "Wenn du denkst, du hast alles unter Kontrolle, dann fährst du wahrscheinlich nicht schnell genug."
+%
+    "Die einzige Konstante im Leben ist die Veränderung - außer vielleicht bei Socken, die verschwinden immer."
+%
+    "Die wahre Reise besteht nicht darin, neue Landschaften zu sehen, sondern neue Augen zu haben."
+%
+    "Das Glück liegt nicht im Besitz von Dingen, sondern in der Freude an dem, was man hat."
+%
+    "Die größte Freiheit ist die Freiheit zu sein, wer man wirklich ist."
+%
+    "Der einzige Weg, großartige Arbeit zu leisten, ist zu lieben, was man tut."
+%
+    "Erfolg ist nicht endgültig, Misserfolg ist nicht fatal: Was zählt, ist der Mut weiterzumachen."
+%
+    "Die beste Zeit, einen Baum zu pflanzen, war vor zwanzig Jahren. Die zweitbeste Zeit ist heute."
+%
+    "Die tiefsten Wahrheiten sind oft die einfachsten."
+%
+    "Das Leben ist ein Spiegel, der uns zeigt, wer wir wirklich sind."
+%
+    "Manchmal ist das größte Abenteuer, einfach nur zu sein."
+%
+    "Ein guter Anfang ist die Hälfte der Arbeit."
+%
+    "Lachen ist die beste Medizin."
+%
+    "Genieße die kleinen Dinge im Leben, denn eines Tages wirst du zurückblicken und erkennen, dass es die großen Dinge waren."
+%
+    "Ich habe versucht, meine Probleme zu zählen, aber ich bin immer wieder eingeschlafen."
+%
+    "Ich bin nicht chaotisch, ich bin kreativ organisiert."
+%
+    "Mein Gehirn ist wie ein Browser mit zu vielen Tabs geöffnet."
+%
+    "Das Leben ist wie ein Buch, und jeder Tag ist eine neue Seite."
+%
+    "Die Vergangenheit kann man nicht ändern, aber man kann aus ihr lernen."
+%
+    "Wahre Stärke zeigt sich nicht in der Abwesenheit von Angst, sondern in der Fähigkeit, sie zu überwinden."
+%
+    "Sei du selbst die Veränderung, die du in der Welt sehen willst."
+%
+    "Erfolg ist die Summe kleiner Anstrengungen, die Tag für Tag wiederholt werden."
+%
+    "Der einzige Weg, seine Grenzen zu kennen, ist, sie zu überschreiten."
+%
+    "Die Antworten, die du suchst, liegen in dir selbst."
+%
+    "Die Zukunft ist nicht etwas, das man vorhersagt, sondern etwas, das man erschafft."
+%
+    "Manchmal muss man die Regeln brechen, um etwas Großartiges zu erreichen."
+%
+    "Ein Lächeln ist die kürzeste Verbindung zwischen zwei Menschen."
+%
+    "Dankbarkeit ist der Schlüssel zum Glück."
+%
+    "Das Leben ist zu kurz, um sich über Kleinigkeiten aufzuregen."
+%    
+    
